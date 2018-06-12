@@ -1,0 +1,11 @@
+{
+    "name": "aozeahj/send-http",
+    "description": "abstract php http request base curl",
+    "authors": [
+        {
+            "name": "aozeahj",
+            "email": "aozeahj@gmail.com"
+        }
+    ],
+    "require": {}
+}
